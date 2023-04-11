@@ -1,1 +1,1 @@
-# C-H-F-Al-O-ReaxFF-force-field
+# C-H-F-Al-O-ReaxFF-force-field reported in the paper "C/H/O/F/Al ReaxFF Force Field Development and Application to Study the Condensed-Phase Poly(vinylidene fluoride) and Reaction Mechanisms with Aluminum"
